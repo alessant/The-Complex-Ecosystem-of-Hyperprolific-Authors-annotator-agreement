@@ -1,0 +1,1 @@
+This project contains the inter-coder agreement rate (Krippendorff Alpha) for the manuscript `The Complex Ecosystem of Hyperprolific Authors` currently submitted to the Scientometrics journal.
